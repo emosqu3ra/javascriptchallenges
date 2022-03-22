@@ -11,9 +11,9 @@ let value = [1, 2, 3, 4, 5, 6];
 
 console.log(value[0]);
 
-
 // write a function that converts minutes into seconds
 function convertMinsToSecs (minutes) { return minutes * 60};
+
 console.log (convertMinsToSecs(10));
 
 // BONUS Create a function lessThan100 that will see if the sum is less than 100 or not
